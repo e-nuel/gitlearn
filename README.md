@@ -8,3 +8,5 @@ So far we have been able to
 4. Merge Codes
 5. Push code dorectries
 6. Delete and roll back updates
+
+This is a new file we have to understand.
