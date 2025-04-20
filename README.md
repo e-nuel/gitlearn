@@ -8,3 +8,10 @@ So far we have been able to
 4. Merge Codes
 5. Push code dorectries
 6. Delete and roll back updates
+
+
+Some Updates to Git Learn
+UserAdmin
+create new user -- sudo useradd <username>
+Add user to group -- sudo usermod -aG <group> username
+switch user  -- sudo su <username>
