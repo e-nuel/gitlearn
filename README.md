@@ -9,7 +9,6 @@ So far we have been able to
 5. Push code dorectries
 6. Delete and roll back updates
 
-
 Some Updates to Git Learn
 UserAdmin
 create new user -- sudo useradd <username>
