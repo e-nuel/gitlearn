@@ -9,4 +9,8 @@ So far we have been able to
 5. Push code dorectries
 6. Delete and roll back updates
 
-This is a new file we have to understand.
+Some Updates to Git Learn
+UserAdmin
+create new user -- sudo useradd <username>
+Add user to group -- sudo usermod -aG <group> username
+switch user  -- sudo su <username>
