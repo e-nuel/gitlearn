@@ -37,3 +37,6 @@ The devps manager needs to understand how to
 * configure 
 * replicate 
 * manage databases
+
+TYPES OF DATABASES
+
