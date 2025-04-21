@@ -14,7 +14,6 @@ UserAdmin
 create new user -- sudo useradd <username>
 Add user to group -- sudo usermod -aG <group> username
 switch user  -- sudo su <username>
-
 Git Stash
 in the case where a change is added but not committed and you want to switch to another branch,
 run git stash --> to hide the changes
@@ -31,3 +30,9 @@ run git log to get the update ID of the history
 run git checkout <id>
 
 that will indicate that you are not in the updated part of the code
+  
+DEVOPS AND DATABASES
+The devps manager needs to understand how to 
+* configure 
+* replicate 
+* manage databases
