@@ -16,7 +16,8 @@ Add user to group -- sudo usermod -aG <group> username
 switch user  -- sudo su <username>
 
 Git Stash
-in the case where a change is added but not committed and you want to switch to another branch,
+in the case where a change is added but not committed and you want to switch
+ to another branch,
 run git stash --> to hide the changes
 This enables one to checkout to another branch
 
