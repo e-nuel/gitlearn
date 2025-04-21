@@ -14,3 +14,9 @@ UserAdmin
 create new user -- sudo useradd <username>
 Add user to group -- sudo usermod -aG <group> username
 switch user  -- sudo su <username>
+
+DEVOPS AND DATABASES
+The devps manager needs to understand how to 
+* configure 
+* replicate 
+* manage databases
