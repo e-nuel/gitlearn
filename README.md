@@ -22,4 +22,7 @@ The devps manager needs to understand how to
 * manage databases
 
 TYPES OF DATABASES
+Structured
+
+
 
